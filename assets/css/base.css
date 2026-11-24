@@ -1,0 +1,238 @@
+html {
+  background: var(--ink-950);
+  color-scheme: light;
+}
+
+body {
+  background: var(--ivory-50);
+  color: var(--text-dark);
+  font-family: var(--font-body);
+  font-size: var(--text-base);
+  font-weight: var(--weight-regular);
+  line-height: var(--leading-body);
+  overflow-x: clip;
+  -webkit-font-smoothing: antialiased;
+}
+
+main {
+  display: block;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-display);
+  font-weight: var(--heading-weight);
+  letter-spacing: var(--heading-tracking);
+  line-height: var(--leading-heading-small);
+  color: var(--heading-color);
+  overflow-wrap: anywhere;
+  text-wrap: balance;
+}
+
+h1 {
+  font-size: var(--h1);
+  font-weight: var(--display-weight);
+  letter-spacing: var(--display-tracking);
+  line-height: var(--leading-h1);
+}
+
+h2 {
+  font-size: var(--h2);
+  font-weight: var(--display-weight);
+  letter-spacing: var(--display-tracking);
+  line-height: var(--leading-h2);
+}
+
+h3 {
+  font-size: var(--h3);
+  line-height: var(--leading-h3);
+}
+
+h4 {
+  font-size: var(--h4);
+}
+
+h5 {
+  font-size: var(--h5);
+}
+
+h6 {
+  font-size: var(--h6);
+}
+
+/* Temas alteram contraste, nunca a escala ou o peso dos títulos. */
+:where(.section--dark, .section--dark-alt, .hero, .site-header, .site-footer, .card--dark, .callout--dark, .mobile-panel) {
+  --heading-color: var(--text-on-dark);
+  --accent-color: var(--champagne-400);
+  --focus-color: var(--focus);
+  --button-secondary-border: var(--border-dark);
+  --button-secondary-background: rgb(var(--ink-950-rgb) / 30%);
+  --tile-bg: var(--ivory-100);
+  --tile-fg: var(--ink-800);
+  color-scheme: dark;
+}
+
+:where(.section--light, .section--alt, .hero--pillar, .card:not(.card--dark), .callout:not(.callout--dark), .mega-panel, .contact-band, .site-header--light:not(.is-scrolled)) {
+  --heading-color: var(--text-dark);
+  --accent-color: var(--accent-on-light);
+  --focus-color: var(--accent-on-light);
+  --button-secondary-border: var(--border-accent-on-light);
+  --button-secondary-background: transparent;
+  --tile-bg: var(--ink-800);
+  --tile-fg: var(--ivory-100);
+  color-scheme: light;
+}
+
+svg {
+  stroke-width: var(--icon-stroke);
+}
+
+p,
+li,
+dd {
+  max-width: 72ch;
+}
+
+/* Lora: destaque em 600, nunca em 700 (dois pesos por família). */
+b,
+strong {
+  font-weight: var(--weight-semibold);
+}
+
+p + p {
+  margin-top: 1em;
+}
+
+a {
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.2em;
+}
+
+a:hover {
+  text-decoration-color: var(--champagne-500);
+}
+
+:focus-visible {
+  border-radius: 3px;
+  outline: 2px solid var(--focus-color);
+  outline-offset: 4px;
+  box-shadow: var(--shadow-focus);
+}
+
+::selection {
+  background: var(--champagne-300);
+  color: var(--ink-950);
+}
+
+.skip-link {
+  position: fixed;
+  z-index: 1000;
+  left: var(--space-md);
+  top: var(--space-md);
+  padding: 0.7rem 1rem;
+  background: var(--focus);
+  color: var(--ink-950);
+  font-family: var(--font-ui);
+  font-weight: var(--ui-weight);
+  transform: translateY(-160%);
+  transition: transform var(--motion-fast) var(--ease);
+}
+
+.skip-link:focus {
+  transform: translateY(0);
+}
+
+.eyebrow {
+  color: var(--accent-color);
+  font-family: var(--font-ui);
+  font-size: var(--text-eyebrow);
+  font-weight: var(--ui-weight);
+  letter-spacing: var(--eyebrow-tracking);
+  line-height: var(--leading-eyebrow);
+}
+
+.eyebrow--dark {
+  color: var(--accent-on-light);
+}
+
+.lead {
+  font-size: var(--text-large);
+  line-height: var(--leading-lead);
+}
+
+/* Rótulos de navegação não são títulos editoriais (H1–H6). */
+.ui-label {
+  font-family: var(--font-ui);
+  font-size: var(--text-label);
+  font-weight: var(--ui-weight);
+  line-height: var(--leading-ui);
+  letter-spacing: 0.01em;
+}
+
+.muted {
+  color: var(--text-muted);
+}
+
+.text-on-dark {
+  color: var(--text-on-dark);
+}
+
+.sr-only {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}
+
+.pending-marker,
+.verify-marker,
+.legal-marker {
+  display: inline;
+  padding: 0.05rem 0.35rem;
+  border: 1px solid currentColor;
+  border-radius: 4px;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+  white-space: nowrap;
+  color: var(--warning);
+  font-family: var(--font-ui);
+  font-size: var(--text-label);
+  font-weight: var(--weight-bold);
+  letter-spacing: 0.04em;
+  vertical-align: middle;
+}
+
+.pending-marker--long {
+  white-space: normal;
+}
+
+.section--dark .pending-marker,
+.section--dark .verify-marker,
+.section--dark .legal-marker,
+.section--dark-alt .pending-marker,
+.section--dark-alt .verify-marker,
+.section--dark-alt .legal-marker,
+.site-footer .pending-marker,
+.site-footer .verify-marker,
+.site-footer .legal-marker,
+.hero .pending-marker,
+.hero .verify-marker,
+.hero .legal-marker {
+  color: var(--focus);
+}
+
+@media (max-width: 767px) {
+  :root {
+    --header-height: 68px;
+    --hero-overlay: linear-gradient(180deg, rgb(var(--ink-950-rgb) / 86%) 0%, rgb(var(--ink-950-rgb) / 79%) 52%, rgb(var(--ink-950-rgb) / 93%) 100%);
+  }
+}

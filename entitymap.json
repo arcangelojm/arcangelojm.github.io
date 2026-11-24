@@ -1,0 +1,1959 @@
+{
+  "version": "1.0",
+  "schema": "https://entitymap.org/spec/v1.0",
+  "publisher": {
+    "name": "Janaina Souto Advocacia Previdenciária",
+    "url": "https://janainasoutoadv.com.br/"
+  },
+  "generated": "2026-11-24T05:49:02Z",
+  "profile": "core",
+  "verificationStatus": "generator-draft",
+  "entities": [
+    {
+      "entityId": "organizacao-janaina-souto-advocacia-previdenciaria",
+      "@type": "Organization",
+      "name": "Janaina Souto Advocacia Previdenciária",
+      "description": "A Janaina Souto Advocacia Previdenciária é o escritório de Direito Previdenciário da advogada Janaina Maciel Souto do Nascimento (OAB/MT 19.458), com atendimento online em todo o Brasil e no exterior. O escritório atua em aposentadorias, benefícios por incapacidade, BPC/LOAS, pensão por morte, salário-maternidade e benefícios indeferidos pelo INSS, do pedido administrativo à ação judicial.",
+      "alternateName": "Janaina Souto Advocacia",
+      "hasChunks": [
+        {
+          "chunkId": "c-organizacao-janaina-souto-advocacia-previdenciaria-1",
+          "text": "Uma vida inteira de trabalho merece ser reconhecida pelo INSS, e a prova começa pelo primeiro documento.",
+          "sourceUrl": "https://janainasoutoadv.com.br/",
+          "pageTitle": "Janaina Souto Advocacia Previdenciária | Atendimento online",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "definition"
+        },
+        {
+          "chunkId": "c-organizacao-janaina-souto-advocacia-previdenciaria-2",
+          "text": "A Janaina Souto Advocacia é um escritório de advocacia previdenciária: a Dra. Janaina Souto atua no Regime Geral do INSS e no BPC/LOAS, pela via administrativa e pela judicial. O trabalho vai do planejamento antes do pedido à ação na Justiça Federal, em cinco áreas com páginas próprias.",
+          "sourceUrl": "https://janainasoutoadv.com.br/sobre/",
+          "pageTitle": "Dra. Janaina Souto: trajetória e inscrição OAB/MT 19.458",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        },
+        {
+          "chunkId": "c-organizacao-janaina-souto-advocacia-previdenciaria-3",
+          "text": "A sede da Janaina Souto Advocacia fica na Av. Belvedere, 885, sala 4, Jardim Imperial, Cuiabá/MT, CEP 78075-850. A entrada e o estacionamento são acessíveis para cadeira de rodas.",
+          "sourceUrl": "https://janainasoutoadv.com.br/contato/",
+          "pageTitle": "Contato Janaina Souto Advocacia: endereço e WhatsApp",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        },
+        {
+          "chunkId": "c-organizacao-janaina-souto-advocacia-previdenciaria-4",
+          "text": "O atendimento da Janaina Souto Advocacia acontece todos os dias, das 8h às 12h e das 13h às 18h, horário de Cuiabá (uma hora a menos que Brasília).",
+          "sourceUrl": "https://janainasoutoadv.com.br/contato/",
+          "pageTitle": "Contato Janaina Souto Advocacia: endereço e WhatsApp",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        }
+      ],
+      "relations": [
+        {
+          "predicate": "OFFERS",
+          "targetId": "servico-advocacia-previdenciaria-online",
+          "targetName": "Advocacia previdenciária online"
+        },
+        {
+          "predicate": "OFFERS",
+          "targetId": "servico-aposentadoria-rural",
+          "targetName": "Aposentadoria rural"
+        },
+        {
+          "predicate": "OFFERS",
+          "targetId": "servico-aposentadoria-por-invalidez",
+          "targetName": "Aposentadoria por invalidez (aposentadoria por incapacidade permanente)"
+        },
+        {
+          "predicate": "OFFERS",
+          "targetId": "servico-auxilio-acidente",
+          "targetName": "Auxílio-acidente"
+        },
+        {
+          "predicate": "OFFERS",
+          "targetId": "servico-bpc-idoso",
+          "targetName": "BPC idoso (benefício assistencial ao idoso)"
+        },
+        {
+          "predicate": "OFFERS",
+          "targetId": "servico-aposentadoria-por-idade",
+          "targetName": "Aposentadoria por idade"
+        },
+        {
+          "predicate": "OFFERS",
+          "targetId": "servico-aposentadoria-hibrida",
+          "targetName": "Aposentadoria híbrida (aposentadoria mista)"
+        },
+        {
+          "predicate": "OFFERS",
+          "targetId": "servico-aposentadoria-por-tempo-de-contribuicao",
+          "targetName": "Aposentadoria por tempo de contribuição"
+        },
+        {
+          "predicate": "OFFERS",
+          "targetId": "servico-aposentadoria-pcd",
+          "targetName": "Aposentadoria PcD (aposentadoria da pessoa com deficiência)"
+        },
+        {
+          "predicate": "OFFERS",
+          "targetId": "servico-auxilio-doenca",
+          "targetName": "Auxílio-doença (auxílio por incapacidade temporária)"
+        },
+        {
+          "predicate": "OFFERS",
+          "targetId": "servico-isencao-imposto-de-renda-doenca-grave",
+          "targetName": "Isenção de imposto de renda por doença grave"
+        },
+        {
+          "predicate": "OFFERS",
+          "targetId": "servico-bpc-deficiente",
+          "targetName": "BPC deficiente (benefício assistencial à pessoa com deficiência)"
+        },
+        {
+          "predicate": "OFFERS",
+          "targetId": "servico-pensao-por-morte",
+          "targetName": "Pensão por morte"
+        },
+        {
+          "predicate": "OFFERS",
+          "targetId": "servico-salario-maternidade",
+          "targetName": "Salário-maternidade"
+        },
+        {
+          "predicate": "OFFERS",
+          "targetId": "servico-planejamento-previdenciario",
+          "targetName": "Planejamento previdenciário"
+        },
+        {
+          "predicate": "OFFERS",
+          "targetId": "servico-beneficio-indeferido",
+          "targetName": "Análise de benefício indeferido no INSS"
+        },
+        {
+          "predicate": "OFFERS",
+          "targetId": "servico-correcao-cnis",
+          "targetName": "Correção do CNIS (acerto de vínculos e remunerações)"
+        },
+        {
+          "predicate": "REGULATED_BY",
+          "targetId": "norma-provimento-205-2021",
+          "targetName": "Provimento 205/2021 da OAB"
+        },
+        {
+          "predicate": "RELATES_TO",
+          "targetId": "lugar-cidade-cuiaba-mt",
+          "targetName": "Cuiabá",
+          "context": {
+            "condition": "sede do escritório: Av. Belvedere, 885, sala 4, Jardim Imperial, CEP 78075-850"
+          }
+        }
+      ]
+    },
+    {
+      "entityId": "pessoa-janaina-maciel-souto-do-nascimento",
+      "@type": "Person",
+      "name": "Janaina Maciel Souto do Nascimento",
+      "description": "Advogada inscrita na OAB/MT sob o nº 19.458 desde 09/02/2015, formada pelo ICEC em 2014, fundadora e sócia proprietária da Janaina Souto Advocacia Previdenciária.",
+      "alternateName": "Dra. Janaina Souto",
+      "hasChunks": [
+        {
+          "chunkId": "c-pessoa-janaina-maciel-souto-do-nascimento-1",
+          "text": "A Dra. Janaina Souto (Janaina Maciel Souto do Nascimento) é advogada previdenciária inscrita na OAB/MT sob o nº 19.458, fundadora e sócia proprietária da Janaina Souto Advocacia Previdenciária, em Cuiabá/MT, com atendimento online em todo o Brasil e no exterior. Abaixo, a trajetória, a formação e como conferir a inscrição.",
+          "sourceUrl": "https://janainasoutoadv.com.br/sobre/",
+          "pageTitle": "Dra. Janaina Souto: trajetória e inscrição OAB/MT 19.458",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "definition"
+        },
+        {
+          "chunkId": "c-pessoa-janaina-maciel-souto-do-nascimento-2",
+          "text": "A inscrição OAB/MT 19.458 é a credencial principal da Dra. Janaina Souto e pode ser conferida por qualquer pessoa, em poucos minutos, no Cadastro Nacional dos Advogados. O site só informa qualificações verdadeiras e comprováveis, como a formação, a inscrição e as pós-graduações concluídas.",
+          "sourceUrl": "https://janainasoutoadv.com.br/sobre/",
+          "pageTitle": "Dra. Janaina Souto: trajetória e inscrição OAB/MT 19.458",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        },
+        {
+          "chunkId": "c-pessoa-janaina-maciel-souto-do-nascimento-3",
+          "text": "A Dra. Janaina Souto é fundadora e sócia proprietária da Janaina Souto Advocacia Previdenciária e responde por todos os casos, do primeiro contato à decisão. A ficha abaixo reúne os dados profissionais que podem ser conferidos, e a equipe que a acompanha aparece logo depois.",
+          "sourceUrl": "https://janainasoutoadv.com.br/sobre/",
+          "pageTitle": "Dra. Janaina Souto: trajetória e inscrição OAB/MT 19.458",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        }
+      ],
+      "relations": [
+        {
+          "predicate": "AFFILIATED_WITH",
+          "targetId": "organizacao-janaina-souto-advocacia-previdenciaria",
+          "targetName": "Janaina Souto Advocacia Previdenciária"
+        },
+        {
+          "predicate": "AFFILIATED_WITH",
+          "targetId": "organizacao-oab",
+          "targetName": "Ordem dos Advogados do Brasil"
+        }
+      ]
+    },
+    {
+      "entityId": "conceito-direito-previdenciario",
+      "@type": "Concept",
+      "name": "Direito previdenciário",
+      "description": "Ramo do Direito Público que trata da filiação, da contribuição, dos benefícios e da organização da previdência social.",
+      "sameAs": "https://www.wikidata.org/wiki/Q7980970",
+      "hasChunks": [
+        {
+          "chunkId": "c-conceito-direito-previdenciario-1",
+          "text": "Direito Previdenciário é o ramo do Direito Público que trata da filiação, da contribuição, dos benefícios e da organização da previdência social. No Brasil, ele regula o Regime Geral de Previdência Social (RGPS), administrado pelo INSS, e é a base do trabalho de todo advogado previdenciário.",
+          "sourceUrl": "https://janainasoutoadv.com.br/advogado-previdenciario/",
+          "pageTitle": "Advogado previdenciário online | Janaina Souto Advocacia",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "definition"
+        }
+      ],
+      "relations": [
+        {
+          "predicate": "COVERS",
+          "targetId": "conceito-regime-geral-de-previdencia-social",
+          "targetName": "Regime Geral de Previdência Social"
+        }
+      ]
+    },
+    {
+      "entityId": "conceito-regime-geral-de-previdencia-social",
+      "@type": "Concept",
+      "name": "Regime Geral de Previdência Social",
+      "description": "Regime de previdência administrado pelo INSS, de onde vêm as aposentadorias, os auxílios e as pensões tratados no site.",
+      "alternateName": "RGPS",
+      "sameAs": "https://www.wikidata.org/wiki/Q10358562",
+      "hasChunks": [
+        {
+          "chunkId": "c-conceito-regime-geral-de-previdencia-social-1",
+          "text": "Os benefícios do INSS são os pagamentos do Regime Geral de Previdência Social ao segurado e aos dependentes, previstos na Lei 8.213/1991, e o BPC, benefício assistencial que o INSS opera pela Lei Orgânica da Assistência Social. A previdência exige contribuição; a assistência atende quem não pode se manter.",
+          "sourceUrl": "https://janainasoutoadv.com.br/inss/",
+          "pageTitle": "Benefícios do INSS: tipos, pedido e negativa | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "definition"
+        }
+      ],
+      "relations": [
+        {
+          "predicate": "REGULATED_BY",
+          "targetId": "norma-lei-8213-1991",
+          "targetName": "Lei 8.213/1991"
+        },
+        {
+          "predicate": "DEPENDS_ON",
+          "targetId": "organizacao-inss",
+          "targetName": "Instituto Nacional do Seguro Social"
+        }
+      ]
+    },
+    {
+      "entityId": "conceito-aposentadoria-por-idade",
+      "@type": "Concept",
+      "name": "Aposentadoria por idade",
+      "description": "Aposentadoria do RGPS paga a quem atinge a idade mínima e cumpre a carência; inclui as modalidades urbana, rural e híbrida.",
+      "sameAs": "https://www.wikidata.org/wiki/Q18484403",
+      "hasChunks": [
+        {
+          "chunkId": "c-conceito-aposentadoria-por-idade-1",
+          "text": "A aposentadoria por idade urbana é o benefício do Regime Geral de Previdência Social pago a quem atinge a idade mínima e cumpre a carência, sem exigir um tempo longo de trabalho. O Instituto Nacional do Seguro Social (INSS) registra o benefício como espécie B41, e depois da reforma ele também é chamado de aposentadoria programada.",
+          "sourceUrl": "https://janainasoutoadv.com.br/aposentadoria/por-idade/",
+          "pageTitle": "Aposentadoria por idade: idade e carência | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "definition"
+        },
+        {
+          "chunkId": "c-conceito-aposentadoria-por-idade-2",
+          "text": "A aposentadoria rural é a aposentadoria por idade do trabalhador rural (espécie 41 no INSS), paga pelo Regime Geral de Previdência Social a quem comprova o trabalho no campo. A idade é cinco anos menor que a da cidade porque o trabalho rural começa cedo e desgasta o corpo.",
+          "sourceUrl": "https://janainasoutoadv.com.br/aposentadoria/rural/",
+          "pageTitle": "Aposentadoria rural: requisitos e prova | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "definition"
+        },
+        {
+          "chunkId": "c-conceito-aposentadoria-por-idade-3",
+          "text": "A aposentadoria híbrida é a modalidade da aposentadoria por idade do Regime Geral de Previdência Social paga pelo Instituto Nacional do Seguro Social (INSS), que soma o trabalho rural, inclusive o do segurado especial sem contribuição, com o urbano para cumprir a carência. No dia a dia, é a aposentadoria mista.",
+          "sourceUrl": "https://janainasoutoadv.com.br/aposentadoria/hibrida/",
+          "pageTitle": "Aposentadoria híbrida: rural e urbano | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "definition"
+        }
+      ],
+      "relations": [
+        {
+          "predicate": "PART_OF",
+          "targetId": "conceito-regime-geral-de-previdencia-social",
+          "targetName": "Regime Geral de Previdência Social"
+        },
+        {
+          "predicate": "REQUIRES",
+          "targetId": "conceito-carencia",
+          "targetName": "Carência"
+        }
+      ]
+    },
+    {
+      "entityId": "conceito-aposentadoria-por-tempo-de-contribuicao",
+      "@type": "Concept",
+      "name": "Aposentadoria por tempo de contribuição",
+      "description": "Aposentadoria do RGPS por 35 anos de contribuição (homem) ou 30 (mulher), hoje só pelas regras de transição da EC 103/2019.",
+      "sameAs": "https://www.wikidata.org/wiki/Q9626375",
+      "hasChunks": [
+        {
+          "chunkId": "c-conceito-aposentadoria-por-tempo-de-contribuicao-1",
+          "text": "A aposentadoria por tempo de contribuição é o benefício do Regime Geral de Previdência Social pago a quem soma 35 anos de contribuição, se homem, ou 30, se mulher. Antes da EC 103/2019 não havia idade mínima; hoje ela só existe nas transições para quem já era filiado ao Instituto Nacional do Seguro Social (INSS).",
+          "sourceUrl": "https://janainasoutoadv.com.br/aposentadoria/por-tempo-de-contribuicao/",
+          "pageTitle": "Aposentadoria por tempo de contribuição | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "definition"
+        }
+      ],
+      "relations": [
+        {
+          "predicate": "PART_OF",
+          "targetId": "conceito-regime-geral-de-previdencia-social",
+          "targetName": "Regime Geral de Previdência Social"
+        },
+        {
+          "predicate": "REGULATED_BY",
+          "targetId": "norma-ec-103-2019",
+          "targetName": "Emenda Constitucional 103/2019"
+        }
+      ]
+    },
+    {
+      "entityId": "conceito-aposentadoria-por-invalidez",
+      "@type": "Concept",
+      "name": "Aposentadoria por invalidez",
+      "description": "Benefício do RGPS pago ao segurado que a perícia considera incapaz para qualquer trabalho, sem chance de reabilitação.",
+      "alternateName": "Aposentadoria por incapacidade permanente",
+      "sameAs": "https://www.wikidata.org/wiki/Q9626367",
+      "hasChunks": [
+        {
+          "chunkId": "c-conceito-aposentadoria-por-invalidez-1",
+          "text": "A aposentadoria por incapacidade permanente é o benefício do Regime Geral de Previdência Social pago ao segurado que a perícia considera incapaz para qualquer trabalho que assegure o sustento, sem chance de reabilitação. É o nome dado pela EC 103/2019 à antiga aposentadoria por invalidez, que continua sendo o nome usado no dia a dia.",
+          "sourceUrl": "https://janainasoutoadv.com.br/incapacidade/aposentadoria-por-invalidez/",
+          "pageTitle": "Aposentadoria por invalidez: perícia e valor | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "definition"
+        }
+      ],
+      "relations": [
+        {
+          "predicate": "PART_OF",
+          "targetId": "conceito-regime-geral-de-previdencia-social",
+          "targetName": "Regime Geral de Previdência Social"
+        },
+        {
+          "predicate": "REQUIRES",
+          "targetId": "conceito-pericia-medica",
+          "targetName": "Perícia médica do INSS"
+        }
+      ]
+    },
+    {
+      "entityId": "conceito-auxilio-acidente",
+      "@type": "Concept",
+      "name": "Auxílio-acidente",
+      "description": "Benefício indenizatório do INSS para o segurado que ficou com sequela que reduz a capacidade para o trabalho habitual.",
+      "sameAs": "https://www.wikidata.org/wiki/Q9639153",
+      "hasChunks": [
+        {
+          "chunkId": "c-conceito-auxilio-acidente-1",
+          "text": "O auxílio-acidente é um benefício de natureza indenizatória do Instituto Nacional do Seguro Social (INSS), pago ao segurado que, depois da consolidação das lesões de um acidente, ficou com sequela que reduz a capacidade para o trabalho que fazia. Ele não substitui o salário: compensa a perda, e por isso é pago junto com a renda do trabalho.",
+          "sourceUrl": "https://janainasoutoadv.com.br/incapacidade/auxilio-acidente/",
+          "pageTitle": "Auxílio-acidente: sequela, valor e pedido | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "definition"
+        }
+      ],
+      "relations": [
+        {
+          "predicate": "PART_OF",
+          "targetId": "conceito-regime-geral-de-previdencia-social",
+          "targetName": "Regime Geral de Previdência Social"
+        },
+        {
+          "predicate": "REGULATED_BY",
+          "targetId": "norma-lei-8213-1991",
+          "targetName": "Lei 8.213/1991"
+        }
+      ]
+    },
+    {
+      "entityId": "conceito-auxilio-doenca",
+      "@type": "Concept",
+      "name": "Auxílio-doença",
+      "description": "Benefício do INSS pago ao segurado incapaz de trabalhar por mais de 15 dias, com expectativa de melhora.",
+      "alternateName": "Auxílio por incapacidade temporária",
+      "sameAs": "https://www.wikidata.org/wiki/Q18486599",
+      "hasChunks": [
+        {
+          "chunkId": "c-conceito-auxilio-doenca-1",
+          "text": "O auxílio por incapacidade temporária é o benefício do Instituto Nacional do Seguro Social (INSS) pago ao segurado que fica incapaz de trabalhar por um período, com expectativa de melhora. É o nome dado pela EC 103/2019 ao antigo auxílio-doença, que continua sendo o nome usado no dia a dia.",
+          "sourceUrl": "https://janainasoutoadv.com.br/incapacidade/auxilio-doenca/",
+          "pageTitle": "Auxílio-doença e incapacidade temporária | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "definition"
+        }
+      ],
+      "relations": [
+        {
+          "predicate": "PART_OF",
+          "targetId": "conceito-regime-geral-de-previdencia-social",
+          "targetName": "Regime Geral de Previdência Social"
+        },
+        {
+          "predicate": "REQUIRES",
+          "targetId": "conceito-pericia-medica",
+          "targetName": "Perícia médica do INSS"
+        }
+      ]
+    },
+    {
+      "entityId": "conceito-bpc",
+      "@type": "Concept",
+      "name": "Benefício de Prestação Continuada",
+      "description": "Benefício assistencial de um salário mínimo para a pessoa idosa de 65 anos ou mais e para a pessoa com deficiência de família de baixa renda, sem contribuição.",
+      "alternateName": "BPC/LOAS",
+      "sameAs": "https://www.wikidata.org/wiki/Q9654244",
+      "hasChunks": [
+        {
+          "chunkId": "c-conceito-bpc-1",
+          "text": "O BPC LOAS é o Benefício de Prestação Continuada, um benefício assistencial previsto no art. 203 da Constituição Federal e regulado pela Lei Orgânica da Assistência Social (Lei 8.742/1993). Ele paga um salário mínimo à pessoa idosa de 65 anos ou mais e à pessoa com deficiência cuja família tem renda por pessoa de até um quarto do salário mínimo.",
+          "sourceUrl": "https://janainasoutoadv.com.br/bpc-loas/",
+          "pageTitle": "BPC LOAS: quem tem direito e como pedir | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "definition"
+        },
+        {
+          "chunkId": "c-conceito-bpc-2",
+          "text": "O benefício assistencial ao idoso é o Benefício de Prestação Continuada (BPC) pago à pessoa de 65 anos ou mais que não tem meios de se sustentar nem de ser sustentada pela família. Ele está no art. 203 da Constituição Federal e na Lei Orgânica da Assistência Social, a LOAS, de 1993.",
+          "sourceUrl": "https://janainasoutoadv.com.br/bpc-loas/idoso/",
+          "pageTitle": "BPC idoso: 65 anos, renda e como pedir | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "definition"
+        },
+        {
+          "chunkId": "c-conceito-bpc-3",
+          "text": "O benefício assistencial à pessoa com deficiência é o Benefício de Prestação Continuada (BPC) pago à pessoa com deficiência que não tem meios de se sustentar nem de ser sustentada pela família. Ele está na Lei Orgânica da Assistência Social, a LOAS, e por ser assistência não é aposentadoria nem exige contribuição.",
+          "sourceUrl": "https://janainasoutoadv.com.br/bpc-loas/deficiencia/",
+          "pageTitle": "BPC deficiente: avaliação e renda | Janaina Souto Advocacia",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "definition"
+        }
+      ],
+      "relations": [
+        {
+          "predicate": "REGULATED_BY",
+          "targetId": "norma-lei-8742-1993",
+          "targetName": "Lei 8.742/1993"
+        }
+      ]
+    },
+    {
+      "entityId": "conceito-pensao-por-morte",
+      "@type": "Concept",
+      "name": "Pensão por morte",
+      "description": "Benefício do RGPS pago aos dependentes do segurado que morreu, aposentado ou não.",
+      "sameAs": "https://www.wikidata.org/wiki/Q1272388",
+      "hasChunks": [
+        {
+          "chunkId": "c-conceito-pensao-por-morte-1",
+          "text": "A pensão por morte é o benefício do Regime Geral de Previdência Social pago aos dependentes do segurado que morreu, aposentado ou não, para substituir a renda que ele levava para casa. Dependente previdenciário é a pessoa que a Lei 8.213/1991 lista em três classes, e a classe anterior exclui as seguintes.",
+          "sourceUrl": "https://janainasoutoadv.com.br/familia/pensao-por-morte/",
+          "pageTitle": "Pensão por morte: direito, duração e valor | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "definition"
+        },
+        {
+          "chunkId": "c-conceito-pensao-por-morte-2",
+          "text": "Dependente previdenciário é quem a Lei 8.213/1991 lista em três classes: cônjuge, companheiro e filhos; depois os pais; e por último os irmãos. Benefícios do INSS para a família são os benefícios do Regime Geral de Previdência Social pagos a esses dependentes por causa de um segurado, ou ligados aos filhos.",
+          "sourceUrl": "https://janainasoutoadv.com.br/familia/",
+          "pageTitle": "Benefícios do INSS para a família | Janaina Souto Advocacia",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "definition"
+        }
+      ],
+      "relations": [
+        {
+          "predicate": "PART_OF",
+          "targetId": "conceito-regime-geral-de-previdencia-social",
+          "targetName": "Regime Geral de Previdência Social"
+        },
+        {
+          "predicate": "REGULATED_BY",
+          "targetId": "norma-lei-8213-1991",
+          "targetName": "Lei 8.213/1991"
+        }
+      ]
+    },
+    {
+      "entityId": "conceito-salario-maternidade",
+      "@type": "Concept",
+      "name": "Salário-maternidade",
+      "description": "Benefício do RGPS que substitui a renda da segurada durante o afastamento por parto, adoção ou guarda para adoção.",
+      "sameAs": "https://www.wikidata.org/wiki/Q135840357",
+      "hasChunks": [
+        {
+          "chunkId": "c-conceito-salario-maternidade-1",
+          "text": "O salário-maternidade é o benefício do Regime Geral de Previdência Social que substitui a renda da segurada durante o afastamento por parto, adoção ou guarda para adoção. A licença-maternidade é o direito de se afastar do trabalho; o salário-maternidade é o pagamento desse período.",
+          "sourceUrl": "https://janainasoutoadv.com.br/familia/salario-maternidade/",
+          "pageTitle": "Salário-maternidade: direito e pedido | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "definition"
+        }
+      ],
+      "relations": [
+        {
+          "predicate": "PART_OF",
+          "targetId": "conceito-regime-geral-de-previdencia-social",
+          "targetName": "Regime Geral de Previdência Social"
+        },
+        {
+          "predicate": "REGULATED_BY",
+          "targetId": "norma-lei-8213-1991",
+          "targetName": "Lei 8.213/1991"
+        }
+      ]
+    },
+    {
+      "entityId": "conceito-cnis",
+      "@type": "Concept",
+      "name": "Cadastro Nacional de Informações Sociais",
+      "description": "Base do INSS que registra vínculos, salários e contribuições usados para conceder e calcular benefícios.",
+      "alternateName": "CNIS",
+      "hasChunks": [
+        {
+          "chunkId": "c-conceito-cnis-1",
+          "text": "O CNIS é o Cadastro Nacional de Informações Sociais, a base do INSS que registra vínculos, salários e contribuições usados para conceder e calcular benefícios. O acerto de vínculos e remunerações, ou atualização do CNIS, é o pedido para incluir, excluir ou corrigir esses dados com documentos.",
+          "sourceUrl": "https://janainasoutoadv.com.br/inss/correcao-cnis/",
+          "pageTitle": "Correção do CNIS: vínculos e salários | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "definition"
+        }
+      ],
+      "relations": [
+        {
+          "predicate": "PART_OF",
+          "targetId": "conceito-regime-geral-de-previdencia-social",
+          "targetName": "Regime Geral de Previdência Social"
+        }
+      ]
+    },
+    {
+      "entityId": "conceito-carencia",
+      "@type": "Concept",
+      "name": "Carência",
+      "description": "Número mínimo de contribuições mensais que o INSS exige antes de pagar um benefício; não é o mesmo que tempo de contribuição.",
+      "sameAs": "https://www.wikidata.org/wiki/Q9698005",
+      "hasChunks": [
+        {
+          "chunkId": "c-conceito-carencia-1",
+          "text": "Carência é o número mínimo de contribuições mensais que o INSS exige antes de pagar um benefício. As aposentadorias pedem 180 meses; o auxílio-doença e a aposentadoria por invalidez, 12; o auxílio-reclusão, 24. Pensão por morte, auxílio-acidente, salário-família e salário-maternidade não exigem carência, mas têm outros requisitos.",
+          "sourceUrl": "https://janainasoutoadv.com.br/blog/carencia-inss/",
+          "pageTitle": "Carência no INSS: tabela por benefício | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "definition"
+        }
+      ],
+      "relations": [
+        {
+          "predicate": "REGULATED_BY",
+          "targetId": "norma-lei-8213-1991",
+          "targetName": "Lei 8.213/1991"
+        }
+      ]
+    },
+    {
+      "entityId": "conceito-qualidade-de-segurado",
+      "@type": "Concept",
+      "name": "Qualidade de segurado",
+      "description": "Condição de quem está coberto pelo INSS, enquanto contribui e durante o período de graça depois que para.",
+      "hasChunks": [
+        {
+          "chunkId": "c-conceito-qualidade-de-segurado-1",
+          "text": "Qualidade de segurado é a condição de quem está coberto pelo INSS: ela existe enquanto a pessoa contribui e continua por um tempo depois que para, o período de graça. Esse prazo é de 12 meses em regra, 24 com mais de 120 contribuições, mais 12 com desemprego comprovado, e de 6 meses para o facultativo.",
+          "sourceUrl": "https://janainasoutoadv.com.br/blog/qualidade-de-segurado/",
+          "pageTitle": "Qualidade de segurado e período de graça | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "definition"
+        }
+      ],
+      "relations": [
+        {
+          "predicate": "REGULATED_BY",
+          "targetId": "norma-lei-8213-1991",
+          "targetName": "Lei 8.213/1991"
+        }
+      ]
+    },
+    {
+      "entityId": "conceito-segurado-especial",
+      "@type": "Concept",
+      "name": "Segurado especial",
+      "description": "Trabalhador rural, pescador artesanal ou extrativista em regime de economia familiar, que se aposenta provando a atividade, sem carnê.",
+      "hasChunks": [
+        {
+          "chunkId": "c-conceito-segurado-especial-1",
+          "text": "O segurado especial é o agricultor, meeiro, arrendatário, pescador artesanal ou extrativista que trabalha em regime de economia familiar (a agricultura familiar), sem empregados permanentes (Lei 8.213/1991, arts. 11, VII, 39 e 48). A prova junta a autodeclaração rural e documentos da época, como notas fiscais de venda, contratos de parceria, ITR e certidões com a profissão de lavrador.",
+          "sourceUrl": "https://janainasoutoadv.com.br/blog/aposentadoria-por-idade-quem-nunca-contribuiu/",
+          "pageTitle": "Aposentadoria por idade para quem nunca contribuiu",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "definition"
+        }
+      ],
+      "relations": [
+        {
+          "predicate": "REGULATED_BY",
+          "targetId": "norma-lei-8213-1991",
+          "targetName": "Lei 8.213/1991"
+        }
+      ]
+    },
+    {
+      "entityId": "conceito-pericia-medica",
+      "@type": "Concept",
+      "name": "Perícia médica do INSS",
+      "description": "Avaliação feita pela Perícia Médica Federal que decide se o segurado está incapaz para o trabalho, desde quando e por quanto tempo.",
+      "sameAs": "https://www.wikidata.org/wiki/Q10348815",
+      "hasChunks": [
+        {
+          "chunkId": "c-conceito-pericia-medica-1",
+          "text": "A perícia INSS é a avaliação médica que decide se o segurado está incapaz para o trabalho que exerce, desde quando e por quanto tempo. Ela é feita por médico da Perícia Médica Federal, de forma presencial, a distância quando o regulamento permite, ou substituída pela análise do atestado no Atestmed.",
+          "sourceUrl": "https://janainasoutoadv.com.br/blog/pericia-inss/",
+          "pageTitle": "Perícia INSS: como funciona e o que levar | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "definition"
+        }
+      ],
+      "relations": [
+        {
+          "predicate": "PART_OF",
+          "targetId": "conceito-regime-geral-de-previdencia-social",
+          "targetName": "Regime Geral de Previdência Social"
+        }
+      ]
+    },
+    {
+      "entityId": "organizacao-inss",
+      "@type": "Organization",
+      "name": "Instituto Nacional do Seguro Social",
+      "description": "Autarquia federal que concede os benefícios do RGPS e opera o BPC; decide o benefício com base no parecer da perícia.",
+      "alternateName": "INSS",
+      "sameAs": "https://www.wikidata.org/wiki/Q10302614",
+      "hasChunks": [
+        {
+          "chunkId": "c-organizacao-inss-1",
+          "text": "A perícia do INSS é feita pela Perícia Médica Federal, carreira de médicos do governo federal separada do quadro do INSS: o perito avalia a incapacidade, e o INSS decide o benefício com base nesse parecer. Por isso, o recurso discute a conclusão médica, e não só a decisão administrativa.",
+          "sourceUrl": "https://janainasoutoadv.com.br/blog/pericia-inss/",
+          "pageTitle": "Perícia INSS: como funciona e o que levar | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        }
+      ],
+      "relations": [
+        {
+          "predicate": "REGULATED_BY",
+          "targetId": "norma-lei-8213-1991",
+          "targetName": "Lei 8.213/1991"
+        }
+      ]
+    },
+    {
+      "entityId": "organizacao-crps",
+      "@type": "Organization",
+      "name": "Conselho de Recursos da Previdência Social",
+      "description": "Órgão que julga os recursos administrativos contra as decisões do INSS.",
+      "alternateName": "CRPS",
+      "hasChunks": [
+        {
+          "chunkId": "c-organizacao-crps-1",
+          "text": "O recurso INSS prazo é de 30 dias, contados da ciência da decisão, para apresentar o recurso ordinário ao Conselho de Recursos da Previdência Social (CRPS), pelo Meu INSS.",
+          "sourceUrl": "https://janainasoutoadv.com.br/blog/prazo-recurso-inss/",
+          "pageTitle": "Recurso INSS prazo: como contar os 30 dias | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        }
+      ],
+      "relations": [
+        {
+          "predicate": "RELATES_TO",
+          "targetId": "organizacao-inss",
+          "targetName": "Instituto Nacional do Seguro Social",
+          "context": {
+            "condition": "julga os recursos contra decisões do INSS"
+          }
+        }
+      ]
+    },
+    {
+      "entityId": "organizacao-justica-federal",
+      "@type": "Organization",
+      "name": "Justiça Federal",
+      "description": "Ramo do Judiciário que julga as ações contra o INSS, inclusive no Juizado Especial Federal.",
+      "sameAs": "https://www.wikidata.org/wiki/Q10313189",
+      "hasChunks": [
+        {
+          "chunkId": "c-organizacao-justica-federal-1",
+          "text": "A ação de BPC negado corre na Justiça Federal, em regra no Juizado Especial Federal, contra o INSS.",
+          "sourceUrl": "https://janainasoutoadv.com.br/blog/bpc-loas-negado/",
+          "pageTitle": "BPC LOAS negado: o que fazer | Janaina Souto Advocacia",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        }
+      ]
+    },
+    {
+      "entityId": "organizacao-oab",
+      "@type": "Organization",
+      "name": "Ordem dos Advogados do Brasil",
+      "description": "Entidade de classe da advocacia, onde a inscrição da advogada pode ser conferida no Cadastro Nacional dos Advogados.",
+      "alternateName": "OAB",
+      "sameAs": "https://www.wikidata.org/wiki/Q873007",
+      "hasChunks": [
+        {
+          "chunkId": "c-organizacao-oab-1",
+          "text": "Entre no Cadastro Nacional dos Advogados, em cna.oab.org.br, escolha a seccional Mato Grosso e digite Janaina Maciel Souto do Nascimento ou o número 19.458. O cadastro mostra a situação da inscrição. A consulta é pública, aberta a qualquer pessoa, e vale para qualquer advogado.",
+          "sourceUrl": "https://janainasoutoadv.com.br/advogado-previdenciario/",
+          "pageTitle": "Advogado previdenciário online | Janaina Souto Advocacia",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "procedure"
+        }
+      ]
+    },
+    {
+      "entityId": "plataforma-meu-inss",
+      "@type": "Platform",
+      "name": "Meu INSS",
+      "description": "Canal digital oficial do INSS para pedidos, exigências, recursos e o extrato do CNIS.",
+      "hasChunks": [
+        {
+          "chunkId": "c-plataforma-meu-inss-1",
+          "text": "Cumprir uma exigência no Meu INSS é anexar o documento ou a informação que o INSS pediu, dentro do prazo indicado na notificação, pelo próprio pedido em Consultar pedidos. A orientação geral do INSS é de 30 dias contados da ciência, mas o prazo concreto é o que vem escrito na exigência.",
+          "sourceUrl": "https://janainasoutoadv.com.br/blog/pedido-em-analise-inss/",
+          "pageTitle": "Pedido em análise no INSS: prazos e status | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "procedure"
+        }
+      ],
+      "relations": [
+        {
+          "predicate": "PRODUCED_BY",
+          "targetId": "organizacao-inss",
+          "targetName": "Instituto Nacional do Seguro Social"
+        }
+      ]
+    },
+    {
+      "entityId": "norma-lei-8213-1991",
+      "@type": "Regulation",
+      "name": "Lei 8.213/1991",
+      "description": "Lei dos Planos de Benefícios da Previdência Social: define segurados, dependentes, carência e os benefícios do RGPS.",
+      "hasChunks": [
+        {
+          "chunkId": "c-norma-lei-8213-1991-1",
+          "text": "Dependente previdenciário é quem a Lei 8.213/1991 lista em três classes: cônjuge, companheiro e filhos; depois os pais; e por último os irmãos.",
+          "sourceUrl": "https://janainasoutoadv.com.br/familia/",
+          "pageTitle": "Benefícios do INSS para a família | Janaina Souto Advocacia",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "definition"
+        }
+      ]
+    },
+    {
+      "entityId": "norma-lei-8742-1993",
+      "@type": "Regulation",
+      "name": "Lei 8.742/1993",
+      "description": "Lei Orgânica da Assistência Social, que regula o Benefício de Prestação Continuada no art. 20.",
+      "alternateName": "Lei Orgânica da Assistência Social (LOAS)",
+      "hasChunks": [
+        {
+          "chunkId": "c-norma-lei-8742-1993-1",
+          "text": "Tem direito ao BPC idoso a pessoa com 65 anos ou mais, homem ou mulher, cuja família tem renda mensal por pessoa (renda per capita) de até um quarto do salário mínimo, com Cadastro Único (CadÚnico) atualizado e CPF de todos. O benefício não exige contribuição ao INSS e paga um salário mínimo, conforme o art. 20 da LOAS.",
+          "sourceUrl": "https://janainasoutoadv.com.br/bpc-loas/idoso/",
+          "pageTitle": "BPC idoso: 65 anos, renda e como pedir | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        }
+      ]
+    },
+    {
+      "entityId": "norma-ec-103-2019",
+      "@type": "Regulation",
+      "name": "Emenda Constitucional 103/2019",
+      "description": "Reforma da Previdência em vigor desde 13/11/2019, que mudou idades, tempos e regras de transição do RGPS.",
+      "alternateName": "Reforma da Previdência de 2019",
+      "sameAs": "https://www.wikidata.org/wiki/Q85876889",
+      "hasChunks": [
+        {
+          "chunkId": "c-norma-ec-103-2019-1",
+          "text": "A data que divide as regras é 13/11/2019, quando a Reforma da Previdência (Emenda Constitucional 103/2019) entrou em vigor.",
+          "sourceUrl": "https://janainasoutoadv.com.br/aposentadoria/",
+          "pageTitle": "Aposentadoria INSS: tipos e regras | Janaina Souto Advocacia",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        }
+      ]
+    },
+    {
+      "entityId": "norma-lc-142-2013",
+      "@type": "Regulation",
+      "name": "Lei Complementar 142/2013",
+      "description": "Lei que regulamenta a aposentadoria da pessoa com deficiência no RGPS, com tempo ou idade menores conforme o grau.",
+      "hasChunks": [
+        {
+          "chunkId": "c-norma-lc-142-2013-1",
+          "text": "A Lei Complementar 142/2013 é a lei que regulamenta a aposentadoria PcD no Regime Geral, com tempo ou idade menores para a pessoa com deficiência que contribui para o Instituto Nacional do Seguro Social (INSS). Ela fixa o tempo por grau, o cálculo e a avaliação biopsicossocial, detalhada nos arts. 70-A a 70-J do Decreto 3.048/1999.",
+          "sourceUrl": "https://janainasoutoadv.com.br/aposentadoria/pcd/",
+          "pageTitle": "Aposentadoria PcD: regras da LC 142 e grau | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "definition"
+        }
+      ]
+    },
+    {
+      "entityId": "norma-lei-7713-1988",
+      "@type": "Regulation",
+      "name": "Lei 7.713/1988",
+      "description": "Lei do imposto de renda cujo art. 6º, XIV, isenta a aposentadoria e a pensão de quem tem doença grave da lista.",
+      "hasChunks": [
+        {
+          "chunkId": "c-norma-lei-7713-1988-1",
+          "text": "Tem direito à isenção de imposto de renda por doença grave o aposentado, o pensionista ou o militar reformado que tem uma das doenças da lista do art. 6º, XIV, da Lei 7.713/1988, provada por laudo de serviço médico oficial. A isenção vale para a aposentadoria e a pensão, e não para o salário.",
+          "sourceUrl": "https://janainasoutoadv.com.br/aposentadoria/isencao-imposto-de-renda-doenca-grave/",
+          "pageTitle": "Isenção de imposto de renda por doença grave | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        }
+      ]
+    },
+    {
+      "entityId": "norma-provimento-205-2021",
+      "@type": "Regulation",
+      "name": "Provimento 205/2021 da OAB",
+      "description": "Norma do Conselho Federal da OAB sobre publicidade na advocacia, que proíbe divulgar valores e prometer resultado.",
+      "hasChunks": [
+        {
+          "chunkId": "c-norma-provimento-205-2021-1",
+          "text": "O custo de um advogado previdenciário depende do tipo de benefício, da fase do caso e do volume de prova, e é sempre combinado em contrato escrito. O Provimento 205/2021 da OAB proíbe divulgar valores, então a tabela mostra os fatores do trabalho.",
+          "sourceUrl": "https://janainasoutoadv.com.br/advogado-previdenciario/",
+          "pageTitle": "Advogado previdenciário online | Janaina Souto Advocacia",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        }
+      ],
+      "relations": [
+        {
+          "predicate": "PRODUCED_BY",
+          "targetId": "organizacao-oab",
+          "targetName": "Ordem dos Advogados do Brasil"
+        }
+      ]
+    },
+    {
+      "entityId": "lugar-pais-brasil",
+      "@type": "Place",
+      "name": "Brasil",
+      "description": "Área de atendimento online da Janaina Souto Advocacia Previdenciária, em todos os estados.",
+      "sameAs": "https://www.wikidata.org/wiki/Q155",
+      "hasChunks": [
+        {
+          "chunkId": "c-lugar-pais-brasil-1",
+          "text": "A Janaina Souto Advocacia atende online pessoas de qualquer estado, porque os pedidos ao INSS e boa parte dos processos na Justiça Federal tramitam pela internet. A sede fica em Cuiabá/MT. Por isso, a distância até Cuiabá não muda o atendimento nem o acompanhamento do caso.",
+          "sourceUrl": "https://janainasoutoadv.com.br/",
+          "pageTitle": "Janaina Souto Advocacia Previdenciária | Atendimento online",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        }
+      ]
+    },
+    {
+      "entityId": "servico-advocacia-previdenciaria-online",
+      "@type": "Service",
+      "name": "Advocacia previdenciária online",
+      "description": "Atendimento online de advocacia previdenciária em todo o Brasil, do pedido ao INSS à ação na Justiça Federal. É o serviço-pilar que reúne as áreas de atuação do escritório.",
+      "hasChunks": [
+        {
+          "chunkId": "c-servico-advocacia-previdenciaria-online-1",
+          "text": "O advogado previdenciário orienta e representa você perante o INSS e a Justiça Federal em aposentadorias, auxílios, BPC/LOAS e negativas. Na Janaina Souto Advocacia Previdenciária, quem atende é a advogada previdenciarista Janaina Maciel Souto do Nascimento, online, em todo o Brasil.",
+          "sourceUrl": "https://janainasoutoadv.com.br/advogado-previdenciario/",
+          "pageTitle": "Advogado previdenciário online | Janaina Souto Advocacia",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        },
+        {
+          "chunkId": "c-servico-advocacia-previdenciaria-online-2",
+          "text": "O advogado previdenciário, ou advogado do INSS, analisa o seu histórico de trabalho, escolhe a regra que se aplica, organiza as provas, faz o pedido e, se o INSS negar, propõe a ação. Na Janaina Souto Advocacia, o trabalho é online, para segurados de todo o Brasil.",
+          "sourceUrl": "https://janainasoutoadv.com.br/advogado-previdenciario/",
+          "pageTitle": "Advogado previdenciário online | Janaina Souto Advocacia",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "definition"
+        }
+      ],
+      "relations": [
+        {
+          "predicate": "DEPENDS_ON",
+          "targetId": "conceito-direito-previdenciario",
+          "targetName": "Direito previdenciário"
+        },
+        {
+          "predicate": "REGULATED_BY",
+          "targetId": "norma-provimento-205-2021",
+          "targetName": "Provimento 205/2021 da OAB"
+        },
+        {
+          "predicate": "TARGETS",
+          "targetId": "lugar-pais-brasil",
+          "targetName": "Brasil",
+          "confidence": "inferred",
+          "context": {
+            "condition": "atendimento online para segurados de qualquer estado",
+            "jurisdiction": "BR"
+          }
+        }
+      ]
+    },
+    {
+      "entityId": "servico-aposentadoria-rural",
+      "@type": "Service",
+      "name": "Aposentadoria rural",
+      "description": "Análise e pedido da aposentadoria por idade do trabalhador rural, com a organização da prova do trabalho no campo e da autodeclaração.",
+      "hasChunks": [
+        {
+          "chunkId": "c-servico-aposentadoria-rural-1",
+          "text": "A aposentadoria rural é a aposentadoria por idade de quem trabalhou no campo: 60 anos para o homem, 55 para a mulher e 15 anos de atividade rural comprovada. A Dra. Janaina Souto organiza essa prova com você, pelo WhatsApp, em todo o Brasil.",
+          "sourceUrl": "https://janainasoutoadv.com.br/aposentadoria/rural/",
+          "pageTitle": "Aposentadoria rural: requisitos e prova | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        },
+        {
+          "chunkId": "c-servico-aposentadoria-rural-2",
+          "text": "A aposentadoria rural exige 60 anos de idade para o homem e 55 para a mulher, mais 180 meses de trabalho no campo, contínuos ou com intervalos. O segurado especial não precisa ter pago carnê: precisa provar a atividade com documentos da época e autodeclaração, conforme o art. 48 da Lei 8.213/1991.",
+          "sourceUrl": "https://janainasoutoadv.com.br/aposentadoria/rural/",
+          "pageTitle": "Aposentadoria rural: requisitos e prova | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        }
+      ],
+      "relations": [
+        {
+          "predicate": "PART_OF",
+          "targetId": "categoria-aposentadoria-inss",
+          "targetName": "Aposentadoria INSS"
+        },
+        {
+          "predicate": "TARGETS",
+          "targetId": "conceito-aposentadoria-por-idade",
+          "targetName": "Aposentadoria por idade",
+          "confidence": "inferred",
+          "context": {
+            "condition": "modalidade rural da aposentadoria por idade (art. 48 da Lei 8.213/1991)"
+          }
+        },
+        {
+          "predicate": "DEPENDS_ON",
+          "targetId": "conceito-segurado-especial",
+          "targetName": "Segurado especial"
+        },
+        {
+          "predicate": "REGULATED_BY",
+          "targetId": "norma-lei-8213-1991",
+          "targetName": "Lei 8.213/1991"
+        }
+      ]
+    },
+    {
+      "entityId": "servico-aposentadoria-por-invalidez",
+      "@type": "Service",
+      "name": "Aposentadoria por invalidez (aposentadoria por incapacidade permanente)",
+      "description": "Leitura dos laudos e do histórico do INSS para o pedido ou a defesa da aposentadoria por incapacidade permanente.",
+      "hasChunks": [
+        {
+          "chunkId": "c-servico-aposentadoria-por-invalidez-1",
+          "text": "A aposentadoria por invalidez, hoje chamada de aposentadoria por incapacidade permanente, é paga a quem a perícia do INSS considera sem condições de voltar a trabalhar. O valor depende do tipo de incapacidade. A Dra. Janaina Souto lê os seus laudos e o histórico do INSS pelo WhatsApp, em todo o Brasil.",
+          "sourceUrl": "https://janainasoutoadv.com.br/incapacidade/aposentadoria-por-invalidez/",
+          "pageTitle": "Aposentadoria por invalidez: perícia e valor | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        },
+        {
+          "chunkId": "c-servico-aposentadoria-por-invalidez-2",
+          "text": "A aposentadoria por invalidez exige incapacidade total e permanente para o trabalho, sem possibilidade de reabilitação para outra atividade, comprovada na perícia médica do INSS. A pessoa precisa ter qualidade de segurado e 12 contribuições de carência, que são dispensadas em acidente, doença do trabalho e doenças graves da lista oficial.",
+          "sourceUrl": "https://janainasoutoadv.com.br/incapacidade/aposentadoria-por-invalidez/",
+          "pageTitle": "Aposentadoria por invalidez: perícia e valor | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        }
+      ],
+      "relations": [
+        {
+          "predicate": "PART_OF",
+          "targetId": "categoria-beneficio-por-incapacidade",
+          "targetName": "Benefício por incapacidade"
+        },
+        {
+          "predicate": "TARGETS",
+          "targetId": "conceito-aposentadoria-por-invalidez",
+          "targetName": "Aposentadoria por invalidez",
+          "confidence": "inferred",
+          "context": {
+            "condition": "benefício por incapacidade permanente do RGPS"
+          }
+        },
+        {
+          "predicate": "DEPENDS_ON",
+          "targetId": "conceito-pericia-medica",
+          "targetName": "Perícia médica do INSS"
+        },
+        {
+          "predicate": "REGULATED_BY",
+          "targetId": "norma-lei-8213-1991",
+          "targetName": "Lei 8.213/1991"
+        }
+      ]
+    },
+    {
+      "entityId": "servico-auxilio-acidente",
+      "@type": "Service",
+      "name": "Auxílio-acidente",
+      "description": "Análise da sequela e do pedido do auxílio-acidente, inclusive na alta do auxílio-doença.",
+      "hasChunks": [
+        {
+          "chunkId": "c-servico-auxilio-acidente-1",
+          "text": "O auxílio-acidente é a indenização mensal do INSS para quem ficou com sequela que reduz a capacidade de trabalho, mesmo voltando a trabalhar. O valor é de 50% do salário de benefício, e o pedido costuma nascer na alta do auxílio-doença. A Dra. Janaina Souto analisa o seu acidente pelo WhatsApp, em todo o Brasil.",
+          "sourceUrl": "https://janainasoutoadv.com.br/incapacidade/auxilio-acidente/",
+          "pageTitle": "Auxílio-acidente: sequela, valor e pedido | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        },
+        {
+          "chunkId": "c-servico-auxilio-acidente-2",
+          "text": "Tem direito ao auxílio-acidente o empregado, o doméstico, o avulso e o segurado especial que ficaram com sequela permanente que reduz a capacidade para o trabalho habitual, depois de acidente de qualquer natureza. O benefício não exige carência e paga 50% do salário de benefício, conforme o art. 86 da Lei 8.213/1991.",
+          "sourceUrl": "https://janainasoutoadv.com.br/incapacidade/auxilio-acidente/",
+          "pageTitle": "Auxílio-acidente: sequela, valor e pedido | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        }
+      ],
+      "relations": [
+        {
+          "predicate": "PART_OF",
+          "targetId": "categoria-beneficio-por-incapacidade",
+          "targetName": "Benefício por incapacidade"
+        },
+        {
+          "predicate": "TARGETS",
+          "targetId": "conceito-auxilio-acidente",
+          "targetName": "Auxílio-acidente",
+          "confidence": "inferred",
+          "context": {
+            "condition": "indenização por sequela que reduz a capacidade de trabalho (art. 86 da Lei 8.213/1991)"
+          }
+        },
+        {
+          "predicate": "DEPENDS_ON",
+          "targetId": "conceito-pericia-medica",
+          "targetName": "Perícia médica do INSS"
+        },
+        {
+          "predicate": "REGULATED_BY",
+          "targetId": "norma-lei-8213-1991",
+          "targetName": "Lei 8.213/1991"
+        }
+      ]
+    },
+    {
+      "entityId": "servico-bpc-idoso",
+      "@type": "Service",
+      "name": "BPC idoso (benefício assistencial ao idoso)",
+      "description": "Cálculo da renda por pessoa da família e pedido do Benefício de Prestação Continuada para a pessoa com 65 anos ou mais.",
+      "hasChunks": [
+        {
+          "chunkId": "c-servico-bpc-idoso-1",
+          "text": "O BPC idoso paga um salário mínimo por mês à pessoa com 65 anos ou mais cuja família tem renda por pessoa de até um quarto do salário mínimo, sem exigir contribuição ao INSS. A Dra. Janaina Souto faz essa conta com você pelo WhatsApp.",
+          "sourceUrl": "https://janainasoutoadv.com.br/bpc-loas/idoso/",
+          "pageTitle": "BPC idoso: 65 anos, renda e como pedir | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        },
+        {
+          "chunkId": "c-servico-bpc-idoso-2",
+          "text": "Tem direito ao BPC idoso a pessoa com 65 anos ou mais, homem ou mulher, cuja família tem renda mensal por pessoa (renda per capita) de até um quarto do salário mínimo, com Cadastro Único (CadÚnico) atualizado e CPF de todos. O benefício não exige contribuição ao INSS e paga um salário mínimo, conforme o art. 20 da LOAS.",
+          "sourceUrl": "https://janainasoutoadv.com.br/bpc-loas/idoso/",
+          "pageTitle": "BPC idoso: 65 anos, renda e como pedir | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        }
+      ],
+      "relations": [
+        {
+          "predicate": "PART_OF",
+          "targetId": "categoria-bpc-loas",
+          "targetName": "BPC LOAS"
+        },
+        {
+          "predicate": "TARGETS",
+          "targetId": "conceito-bpc",
+          "targetName": "Benefício de Prestação Continuada",
+          "confidence": "inferred",
+          "context": {
+            "condition": "BPC da pessoa idosa"
+          }
+        },
+        {
+          "predicate": "REGULATED_BY",
+          "targetId": "norma-lei-8742-1993",
+          "targetName": "Lei 8.742/1993"
+        }
+      ]
+    },
+    {
+      "entityId": "servico-aposentadoria-por-idade",
+      "@type": "Service",
+      "name": "Aposentadoria por idade",
+      "description": "Conferência do CNIS, da idade mínima e da carência para o pedido da aposentadoria por idade urbana.",
+      "hasChunks": [
+        {
+          "chunkId": "c-servico-aposentadoria-por-idade-1",
+          "text": "A aposentadoria por idade do INSS exige 65 anos para o homem, 62 para a mulher e a carência de 180 contribuições. A Dra. Janaina Souto confere o seu CNIS e mostra como pedir, pelo WhatsApp, em todo o Brasil.",
+          "sourceUrl": "https://janainasoutoadv.com.br/aposentadoria/por-idade/",
+          "pageTitle": "Aposentadoria por idade: idade e carência | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        },
+        {
+          "chunkId": "c-servico-aposentadoria-por-idade-2",
+          "text": "A aposentadoria por idade exige 65 anos para o homem e 62 anos para a mulher, desde a Reforma da Previdência de 2019. É preciso ter a carência de 180 contribuições e o tempo de contribuição de 15 anos, ou de 20 anos para o homem que entrou no INSS depois de 13/11/2019.",
+          "sourceUrl": "https://janainasoutoadv.com.br/aposentadoria/por-idade/",
+          "pageTitle": "Aposentadoria por idade: idade e carência | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        }
+      ],
+      "relations": [
+        {
+          "predicate": "PART_OF",
+          "targetId": "categoria-aposentadoria-inss",
+          "targetName": "Aposentadoria INSS"
+        },
+        {
+          "predicate": "TARGETS",
+          "targetId": "conceito-aposentadoria-por-idade",
+          "targetName": "Aposentadoria por idade",
+          "confidence": "inferred",
+          "context": {
+            "condition": "aposentadoria por idade urbana do RGPS"
+          }
+        },
+        {
+          "predicate": "DEPENDS_ON",
+          "targetId": "conceito-carencia",
+          "targetName": "Carência"
+        },
+        {
+          "predicate": "REGULATED_BY",
+          "targetId": "norma-ec-103-2019",
+          "targetName": "Emenda Constitucional 103/2019"
+        }
+      ]
+    },
+    {
+      "entityId": "servico-aposentadoria-hibrida",
+      "@type": "Service",
+      "name": "Aposentadoria híbrida (aposentadoria mista)",
+      "description": "Montagem da linha do tempo que soma o trabalho rural e o urbano para cumprir a carência da aposentadoria por idade.",
+      "hasChunks": [
+        {
+          "chunkId": "c-servico-aposentadoria-hibrida-1",
+          "text": "A aposentadoria híbrida soma os anos de trabalho no campo com os anos na cidade para fechar a carência da aposentadoria por idade. A Dra. Janaina Souto monta essa linha do tempo com você, pelo WhatsApp, em todo o Brasil.",
+          "sourceUrl": "https://janainasoutoadv.com.br/aposentadoria/hibrida/",
+          "pageTitle": "Aposentadoria híbrida: rural e urbano | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        },
+        {
+          "chunkId": "c-servico-aposentadoria-hibrida-2",
+          "text": "Tem direito à aposentadoria híbrida quem completa 65 anos, se homem, ou 62, se mulher, e soma 180 meses de carência juntando o trabalho rural e o urbano. A regra está no art. 48, § 3º, da Lei 8.213/1991, incluído pela Lei 11.718/2008, e serve para quem não fecha a carência só no campo ou só na cidade.",
+          "sourceUrl": "https://janainasoutoadv.com.br/aposentadoria/hibrida/",
+          "pageTitle": "Aposentadoria híbrida: rural e urbano | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        }
+      ],
+      "relations": [
+        {
+          "predicate": "PART_OF",
+          "targetId": "categoria-aposentadoria-inss",
+          "targetName": "Aposentadoria INSS"
+        },
+        {
+          "predicate": "TARGETS",
+          "targetId": "conceito-aposentadoria-por-idade",
+          "targetName": "Aposentadoria por idade",
+          "confidence": "inferred",
+          "context": {
+            "condition": "modalidade híbrida da aposentadoria por idade (art. 48, § 3º, da Lei 8.213/1991)"
+          }
+        },
+        {
+          "predicate": "DEPENDS_ON",
+          "targetId": "conceito-segurado-especial",
+          "targetName": "Segurado especial"
+        },
+        {
+          "predicate": "REGULATED_BY",
+          "targetId": "norma-lei-8213-1991",
+          "targetName": "Lei 8.213/1991"
+        }
+      ]
+    },
+    {
+      "entityId": "servico-aposentadoria-por-tempo-de-contribuicao",
+      "@type": "Service",
+      "name": "Aposentadoria por tempo de contribuição",
+      "description": "Comparação das regras de transição da aposentadoria por tempo de contribuição com o CNIS de quem já era filiado antes de 13/11/2019.",
+      "hasChunks": [
+        {
+          "chunkId": "c-servico-aposentadoria-por-tempo-de-contribuicao-1",
+          "text": "A aposentadoria por tempo de contribuição continua, pelas regras de transição, para quem já contribuía antes de 13/11/2019. A Dra. Janaina Souto compara as quatro regras com o seu CNIS, pelo WhatsApp, em todo o Brasil.",
+          "sourceUrl": "https://janainasoutoadv.com.br/aposentadoria/por-tempo-de-contribuicao/",
+          "pageTitle": "Aposentadoria por tempo de contribuição | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        },
+        {
+          "chunkId": "c-servico-aposentadoria-por-tempo-de-contribuicao-2",
+          "text": "A aposentadoria por tempo de contribuição ainda existe para quem era filiado ao INSS até 13/11/2019, por quatro regras de transição da EC 103/2019. Todas pedem 35 anos de contribuição para o homem e 30 para a mulher; em 2026, a regra de pontos exige 103 e 93 pontos.",
+          "sourceUrl": "https://janainasoutoadv.com.br/aposentadoria/por-tempo-de-contribuicao/",
+          "pageTitle": "Aposentadoria por tempo de contribuição | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        }
+      ],
+      "relations": [
+        {
+          "predicate": "PART_OF",
+          "targetId": "categoria-aposentadoria-inss",
+          "targetName": "Aposentadoria INSS"
+        },
+        {
+          "predicate": "TARGETS",
+          "targetId": "conceito-aposentadoria-por-tempo-de-contribuicao",
+          "targetName": "Aposentadoria por tempo de contribuição",
+          "confidence": "inferred",
+          "context": {
+            "condition": "regras de transição da EC 103/2019"
+          }
+        },
+        {
+          "predicate": "REGULATED_BY",
+          "targetId": "norma-ec-103-2019",
+          "targetName": "Emenda Constitucional 103/2019"
+        }
+      ]
+    },
+    {
+      "entityId": "servico-aposentadoria-pcd",
+      "@type": "Service",
+      "name": "Aposentadoria PcD (aposentadoria da pessoa com deficiência)",
+      "description": "Preparação da documentação para a avaliação do grau de deficiência e o pedido da aposentadoria da pessoa com deficiência.",
+      "hasChunks": [
+        {
+          "chunkId": "c-servico-aposentadoria-pcd-1",
+          "text": "A aposentadoria PcD é a aposentadoria da pessoa com deficiência que contribui para o INSS, com tempo ou idade menores conforme o grau, pela Lei Complementar 142. A Dra. Janaina Souto prepara com você a documentação para a avaliação, pelo WhatsApp, em todo o Brasil.",
+          "sourceUrl": "https://janainasoutoadv.com.br/aposentadoria/pcd/",
+          "pageTitle": "Aposentadoria PcD: regras da LC 142 e grau | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        },
+        {
+          "chunkId": "c-servico-aposentadoria-pcd-2",
+          "text": "A aposentadoria PcD tem duas modalidades na Lei Complementar 142. Por tempo de contribuição, sem idade mínima, pede 25, 29 ou 33 anos para o homem e 20, 24 ou 28 para a mulher, conforme o grau grave, moderado ou leve. Por idade, pede 60 ou 55 anos e 15 anos de contribuição com deficiência.",
+          "sourceUrl": "https://janainasoutoadv.com.br/aposentadoria/pcd/",
+          "pageTitle": "Aposentadoria PcD: regras da LC 142 e grau | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        }
+      ],
+      "relations": [
+        {
+          "predicate": "PART_OF",
+          "targetId": "categoria-aposentadoria-inss",
+          "targetName": "Aposentadoria INSS"
+        },
+        {
+          "predicate": "REGULATED_BY",
+          "targetId": "norma-lc-142-2013",
+          "targetName": "Lei Complementar 142/2013"
+        }
+      ]
+    },
+    {
+      "entityId": "servico-auxilio-doenca",
+      "@type": "Service",
+      "name": "Auxílio-doença (auxílio por incapacidade temporária)",
+      "description": "Organização dos laudos, do pedido, da perícia e da prorrogação do auxílio por incapacidade temporária.",
+      "hasChunks": [
+        {
+          "chunkId": "c-servico-auxilio-doenca-1",
+          "text": "O auxílio-doença, hoje chamado de auxílio por incapacidade temporária, é pago pelo INSS a quem fica incapaz de trabalhar por mais de 15 dias. A Dra. Janaina Souto organiza com você os laudos, o pedido, a perícia e a prorrogação, pelo WhatsApp, em todo o Brasil.",
+          "sourceUrl": "https://janainasoutoadv.com.br/incapacidade/auxilio-doenca/",
+          "pageTitle": "Auxílio-doença e incapacidade temporária | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        },
+        {
+          "chunkId": "c-servico-auxilio-doenca-2",
+          "text": "Tem direito ao auxílio-doença o segurado do INSS que fica incapaz para o trabalho ou para a atividade habitual por mais de 15 dias seguidos, com qualidade de segurado e, em regra, 12 contribuições de carência. O valor é de 91% do salário de benefício, sem passar da média dos 12 últimos salários de contribuição.",
+          "sourceUrl": "https://janainasoutoadv.com.br/incapacidade/auxilio-doenca/",
+          "pageTitle": "Auxílio-doença e incapacidade temporária | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        }
+      ],
+      "relations": [
+        {
+          "predicate": "PART_OF",
+          "targetId": "categoria-beneficio-por-incapacidade",
+          "targetName": "Benefício por incapacidade"
+        },
+        {
+          "predicate": "TARGETS",
+          "targetId": "conceito-auxilio-doenca",
+          "targetName": "Auxílio-doença",
+          "confidence": "inferred",
+          "context": {
+            "condition": "afastamento por mais de 15 dias"
+          }
+        },
+        {
+          "predicate": "DEPENDS_ON",
+          "targetId": "conceito-pericia-medica",
+          "targetName": "Perícia médica do INSS"
+        },
+        {
+          "predicate": "DEPENDS_ON",
+          "targetId": "conceito-qualidade-de-segurado",
+          "targetName": "Qualidade de segurado"
+        }
+      ]
+    },
+    {
+      "entityId": "servico-isencao-imposto-de-renda-doenca-grave",
+      "@type": "Service",
+      "name": "Isenção de imposto de renda por doença grave",
+      "description": "Orientação do pedido de isenção do imposto de renda sobre aposentadoria e pensão por doença grave e da restituição do imposto retido.",
+      "hasChunks": [
+        {
+          "chunkId": "c-servico-isencao-imposto-de-renda-doenca-grave-1",
+          "text": "A isenção de imposto de renda por doença grave livra do IR a aposentadoria e a pensão de quem tem uma doença da lista da Lei 7.713/1988, como câncer e cardiopatia grave. A Dra. Janaina Souto orienta o pedido ao INSS e a restituição, pelo WhatsApp, em todo o Brasil.",
+          "sourceUrl": "https://janainasoutoadv.com.br/aposentadoria/isencao-imposto-de-renda-doenca-grave/",
+          "pageTitle": "Isenção de imposto de renda por doença grave | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        },
+        {
+          "chunkId": "c-servico-isencao-imposto-de-renda-doenca-grave-2",
+          "text": "Tem direito à isenção de imposto de renda por doença grave o aposentado, o pensionista ou o militar reformado que tem uma das doenças da lista do art. 6º, XIV, da Lei 7.713/1988, provada por laudo de serviço médico oficial. A isenção vale para a aposentadoria e a pensão, e não para o salário.",
+          "sourceUrl": "https://janainasoutoadv.com.br/aposentadoria/isencao-imposto-de-renda-doenca-grave/",
+          "pageTitle": "Isenção de imposto de renda por doença grave | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        }
+      ],
+      "relations": [
+        {
+          "predicate": "PART_OF",
+          "targetId": "categoria-aposentadoria-inss",
+          "targetName": "Aposentadoria INSS"
+        },
+        {
+          "predicate": "REGULATED_BY",
+          "targetId": "norma-lei-7713-1988",
+          "targetName": "Lei 7.713/1988"
+        }
+      ]
+    },
+    {
+      "entityId": "servico-bpc-deficiente",
+      "@type": "Service",
+      "name": "BPC deficiente (benefício assistencial à pessoa com deficiência)",
+      "description": "Análise dos relatórios e da renda da família para o pedido do Benefício de Prestação Continuada da pessoa com deficiência.",
+      "hasChunks": [
+        {
+          "chunkId": "c-servico-bpc-deficiente-1",
+          "text": "O BPC deficiente é o benefício de um salário mínimo pago à pessoa com deficiência de qualquer idade cuja família tem renda baixa, sem exigir contribuição ao INSS. A Dra. Janaina Souto analisa os relatórios e a renda da família pelo WhatsApp.",
+          "sourceUrl": "https://janainasoutoadv.com.br/bpc-loas/deficiencia/",
+          "pageTitle": "BPC deficiente: avaliação e renda | Janaina Souto Advocacia",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        },
+        {
+          "chunkId": "c-servico-bpc-deficiente-2",
+          "text": "Tem direito ao BPC deficiente a pessoa com deficiência de qualquer idade que tem impedimento de longo prazo, com efeitos por 2 anos ou mais, e vive numa família com renda por pessoa de até um quarto do salário mínimo. É preciso ter o Cadastro Único atualizado, e o benefício não exige contribuição ao INSS (LOAS, art. 20).",
+          "sourceUrl": "https://janainasoutoadv.com.br/bpc-loas/deficiencia/",
+          "pageTitle": "BPC deficiente: avaliação e renda | Janaina Souto Advocacia",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        }
+      ],
+      "relations": [
+        {
+          "predicate": "PART_OF",
+          "targetId": "categoria-bpc-loas",
+          "targetName": "BPC LOAS"
+        },
+        {
+          "predicate": "TARGETS",
+          "targetId": "conceito-bpc",
+          "targetName": "Benefício de Prestação Continuada",
+          "confidence": "inferred",
+          "context": {
+            "condition": "BPC da pessoa com deficiência"
+          }
+        },
+        {
+          "predicate": "REGULATED_BY",
+          "targetId": "norma-lei-8742-1993",
+          "targetName": "Lei 8.742/1993"
+        }
+      ]
+    },
+    {
+      "entityId": "servico-pensao-por-morte",
+      "@type": "Service",
+      "name": "Pensão por morte",
+      "description": "Orientação do pedido da pensão por morte para viúva, viúvo, filhos e outros dependentes do segurado.",
+      "hasChunks": [
+        {
+          "chunkId": "c-servico-pensao-por-morte-1",
+          "text": "A pensão por morte é o benefício do INSS pago à viúva, ao viúvo, aos filhos e a outros dependentes de quem morreu segurado ou aposentado. A duração depende da idade do cônjuge, e o valor parte de 50% da aposentadoria. A Dra. Janaina Souto atende pelo WhatsApp.",
+          "sourceUrl": "https://janainasoutoadv.com.br/familia/pensao-por-morte/",
+          "pageTitle": "Pensão por morte: direito, duração e valor | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        },
+        {
+          "chunkId": "c-servico-pensao-por-morte-2",
+          "text": "Têm direito à pensão por morte os dependentes do segurado que morreu aposentado ou com qualidade de segurado: cônjuge ou companheiro e filhos até 21 anos ou com deficiência; na falta deles, os pais; depois, os irmãos menores de 21 anos, inválidos ou com deficiência. Pedida em até 90 dias do óbito, a pensão é paga desde a morte.",
+          "sourceUrl": "https://janainasoutoadv.com.br/familia/pensao-por-morte/",
+          "pageTitle": "Pensão por morte: direito, duração e valor | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        }
+      ],
+      "relations": [
+        {
+          "predicate": "PART_OF",
+          "targetId": "categoria-beneficios-para-a-familia",
+          "targetName": "Benefícios do INSS para a família"
+        },
+        {
+          "predicate": "TARGETS",
+          "targetId": "conceito-pensao-por-morte",
+          "targetName": "Pensão por morte",
+          "confidence": "inferred",
+          "context": {
+            "condition": "dependentes do segurado falecido"
+          }
+        },
+        {
+          "predicate": "DEPENDS_ON",
+          "targetId": "conceito-qualidade-de-segurado",
+          "targetName": "Qualidade de segurado"
+        },
+        {
+          "predicate": "REGULATED_BY",
+          "targetId": "norma-lei-8213-1991",
+          "targetName": "Lei 8.213/1991"
+        }
+      ]
+    },
+    {
+      "entityId": "servico-salario-maternidade",
+      "@type": "Service",
+      "name": "Salário-maternidade",
+      "description": "Conferência da categoria da segurada e do pedido do salário-maternidade por parto, adoção ou guarda.",
+      "hasChunks": [
+        {
+          "chunkId": "c-servico-salario-maternidade-1",
+          "text": "O salário-maternidade é o benefício do INSS pago por 120 dias à segurada que tem filho, adota ou obtém guarda para adoção, inclusive MEI, autônoma, rural e desempregada no período de graça. A Dra. Janaina Souto confere a sua categoria e o pedido pelo WhatsApp.",
+          "sourceUrl": "https://janainasoutoadv.com.br/familia/salario-maternidade/",
+          "pageTitle": "Salário-maternidade: direito e pedido | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        },
+        {
+          "chunkId": "c-servico-salario-maternidade-2",
+          "text": "Tem direito ao salário-maternidade a segurada do INSS que tem filho, adota ou obtém guarda judicial para adoção: empregada, doméstica, avulsa, MEI, autônoma, facultativa, segurada especial rural e desempregada no período de graça. O benefício dura 120 dias e é pago pela empresa ou pelo INSS, conforme a categoria.",
+          "sourceUrl": "https://janainasoutoadv.com.br/familia/salario-maternidade/",
+          "pageTitle": "Salário-maternidade: direito e pedido | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        }
+      ],
+      "relations": [
+        {
+          "predicate": "PART_OF",
+          "targetId": "categoria-beneficios-para-a-familia",
+          "targetName": "Benefícios do INSS para a família"
+        },
+        {
+          "predicate": "TARGETS",
+          "targetId": "conceito-salario-maternidade",
+          "targetName": "Salário-maternidade",
+          "confidence": "inferred",
+          "context": {
+            "condition": "parto, adoção ou guarda para adoção"
+          }
+        },
+        {
+          "predicate": "REGULATED_BY",
+          "targetId": "norma-lei-8213-1991",
+          "targetName": "Lei 8.213/1991"
+        }
+      ]
+    },
+    {
+      "entityId": "servico-planejamento-previdenciario",
+      "@type": "Service",
+      "name": "Planejamento previdenciário",
+      "description": "Comparação, a partir do CNIS, das regras de aposentadoria possíveis e do melhor momento para o pedido.",
+      "hasChunks": [
+        {
+          "chunkId": "c-servico-planejamento-previdenciario-1",
+          "text": "O planejamento previdenciário compara, a partir do seu CNIS, as regras de aposentadoria possíveis e o momento do pedido, antes de você protocolar no Instituto Nacional do Seguro Social (INSS). A Dra. Janaina Souto faz essa análise online, com o seu extrato e os documentos de trabalho.",
+          "sourceUrl": "https://janainasoutoadv.com.br/inss/planejamento-previdenciario/",
+          "pageTitle": "Planejamento previdenciário: antes de pedir | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        },
+        {
+          "chunkId": "c-servico-planejamento-previdenciario-2",
+          "text": "O planejamento previdenciário compara as regras de aposentadoria que podem valer para você, como as regras de transição da Reforma, a aposentadoria por idade e o direito adquirido, com o valor estimado e a data em que cada uma se cumpre. Ele parte do CNIS conferido com documentos e serve a quem está a até 10 anos de se aposentar.",
+          "sourceUrl": "https://janainasoutoadv.com.br/inss/planejamento-previdenciario/",
+          "pageTitle": "Planejamento previdenciário: antes de pedir | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        }
+      ],
+      "relations": [
+        {
+          "predicate": "PART_OF",
+          "targetId": "categoria-beneficios-do-inss",
+          "targetName": "Benefícios do INSS"
+        },
+        {
+          "predicate": "DEPENDS_ON",
+          "targetId": "conceito-cnis",
+          "targetName": "Cadastro Nacional de Informações Sociais"
+        },
+        {
+          "predicate": "REGULATED_BY",
+          "targetId": "norma-ec-103-2019",
+          "targetName": "Emenda Constitucional 103/2019"
+        }
+      ]
+    },
+    {
+      "entityId": "servico-beneficio-indeferido",
+      "@type": "Service",
+      "name": "Análise de benefício indeferido no INSS",
+      "description": "Leitura da carta de indeferimento e escolha entre recurso ao CRPS, novo pedido ou ação na Justiça Federal.",
+      "hasChunks": [
+        {
+          "chunkId": "c-servico-beneficio-indeferido-1",
+          "text": "Indeferido no INSS significa que o pedido de benefício foi negado, e a carta de indeferimento traz o significado da decisão, o motivo e o prazo. Os próximos passos são recurso, novo pedido ou ação na Justiça Federal. A Dra. Janaina Souto lê a sua carta pelo WhatsApp.",
+          "sourceUrl": "https://janainasoutoadv.com.br/inss/beneficio-indeferido/",
+          "pageTitle": "Indeferido no INSS: o que é e o que fazer | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        },
+        {
+          "chunkId": "c-servico-beneficio-indeferido-2",
+          "text": "Indeferido no INSS significa que o Instituto analisou o requerimento e negou o benefício, por falta de um requisito ou de prova. A decisão vem na carta de indeferimento, com o motivo e a data da ciência, e abre três saídas: recurso ao CRPS em 30 dias, novo pedido com prova nova ou ação na Justiça Federal.",
+          "sourceUrl": "https://janainasoutoadv.com.br/inss/beneficio-indeferido/",
+          "pageTitle": "Indeferido no INSS: o que é e o que fazer | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        }
+      ],
+      "relations": [
+        {
+          "predicate": "PART_OF",
+          "targetId": "categoria-beneficios-do-inss",
+          "targetName": "Benefícios do INSS"
+        },
+        {
+          "predicate": "RELATES_TO",
+          "targetId": "organizacao-crps",
+          "targetName": "Conselho de Recursos da Previdência Social",
+          "context": {
+            "condition": "recurso ordinário em 30 dias da ciência"
+          }
+        },
+        {
+          "predicate": "RELATES_TO",
+          "targetId": "organizacao-justica-federal",
+          "targetName": "Justiça Federal",
+          "context": {
+            "condition": "ação judicial depois da negativa"
+          }
+        }
+      ]
+    },
+    {
+      "entityId": "servico-correcao-cnis",
+      "@type": "Service",
+      "name": "Correção do CNIS (acerto de vínculos e remunerações)",
+      "description": "Pedido de inclusão, exclusão ou correção de vínculos, salários e contribuições no CNIS, com documentos.",
+      "hasChunks": [
+        {
+          "chunkId": "c-servico-correcao-cnis-1",
+          "text": "A correção do CNIS é o pedido ao Instituto Nacional do Seguro Social (INSS) para incluir, excluir ou corrigir vínculos, salários e contribuições do seu cadastro, com documentos. O erro no CNIS muda a carência, o tempo e o valor do benefício. A Dra. Janaina Souto confere o seu extrato pelo WhatsApp.",
+          "sourceUrl": "https://janainasoutoadv.com.br/inss/correcao-cnis/",
+          "pageTitle": "Correção do CNIS: vínculos e salários | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        },
+        {
+          "chunkId": "c-servico-correcao-cnis-2",
+          "text": "A correção do CNIS é feita pelo próprio segurado, ou por procurador, a qualquer tempo, com documentos que provem o vínculo, o salário ou a contribuição. O pedido pode ser feito junto com o requerimento do benefício ou por serviço próprio no Meu INSS, e o formulário RAC entra quando o sistema não tem campo para a informação.",
+          "sourceUrl": "https://janainasoutoadv.com.br/inss/correcao-cnis/",
+          "pageTitle": "Correção do CNIS: vínculos e salários | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        }
+      ],
+      "relations": [
+        {
+          "predicate": "PART_OF",
+          "targetId": "categoria-beneficios-do-inss",
+          "targetName": "Benefícios do INSS"
+        },
+        {
+          "predicate": "DEPENDS_ON",
+          "targetId": "conceito-cnis",
+          "targetName": "Cadastro Nacional de Informações Sociais"
+        },
+        {
+          "predicate": "DEPENDS_ON",
+          "targetId": "plataforma-meu-inss",
+          "targetName": "Meu INSS"
+        }
+      ]
+    },
+    {
+      "entityId": "categoria-aposentadoria-inss",
+      "@type": "Taxonomy",
+      "name": "Aposentadoria INSS",
+      "description": "Categoria do site que reúne os tipos de aposentadoria do Regime Geral e a isenção de IR do aposentado com doença grave.",
+      "hasChunks": [
+        {
+          "chunkId": "c-categoria-aposentadoria-inss-1",
+          "text": "A aposentadoria INSS tem caminhos diferentes no Regime Geral de Previdência Social, cada um com idade, tempo de contribuição e carência próprios. Este guia mostra os tipos de aposentadoria, as regras de 2026 e qual analisar primeiro no seu caso.",
+          "sourceUrl": "https://janainasoutoadv.com.br/aposentadoria/",
+          "pageTitle": "Aposentadoria INSS: tipos e regras | Janaina Souto Advocacia",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "definition"
+        },
+        {
+          "chunkId": "c-categoria-aposentadoria-inss-2",
+          "text": "Cinco tipos de aposentadoria do INSS e a isenção de IR do aposentado com doença grave têm aqui uma página com requisitos, documentos e o caminho do pedido. O nome técnico aparece no título e o nome popular na descrição, para você reconhecer a sua situação mesmo sem conhecer os termos do INSS.",
+          "sourceUrl": "https://janainasoutoadv.com.br/aposentadoria/",
+          "pageTitle": "Aposentadoria INSS: tipos e regras | Janaina Souto Advocacia",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        }
+      ],
+      "relations": [
+        {
+          "predicate": "COVERS",
+          "targetId": "conceito-aposentadoria-por-idade",
+          "targetName": "Aposentadoria por idade"
+        },
+        {
+          "predicate": "COVERS",
+          "targetId": "conceito-aposentadoria-por-tempo-de-contribuicao",
+          "targetName": "Aposentadoria por tempo de contribuição"
+        },
+        {
+          "predicate": "COVERS",
+          "targetId": "norma-ec-103-2019",
+          "targetName": "Emenda Constitucional 103/2019"
+        }
+      ]
+    },
+    {
+      "entityId": "categoria-beneficio-por-incapacidade",
+      "@type": "Taxonomy",
+      "name": "Benefício por incapacidade",
+      "description": "Categoria do site com os benefícios do INSS para quem adoece ou se acidenta: auxílio-doença, aposentadoria por invalidez e auxílio-acidente.",
+      "hasChunks": [
+        {
+          "chunkId": "c-categoria-beneficio-por-incapacidade-1",
+          "text": "O benefício por incapacidade é o grupo de benefícios do INSS para quem adoece ou se acidenta: auxílio-doença, aposentadoria por invalidez e auxílio-acidente. Este guia mostra os três tipos, como funcionam o afastamento e a perícia do INSS e qual analisar. A isenção de IR por doença grave, da Receita Federal, aparece junto por depender de laudo.",
+          "sourceUrl": "https://janainasoutoadv.com.br/incapacidade/",
+          "pageTitle": "Benefício por incapacidade do INSS | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "definition"
+        },
+        {
+          "chunkId": "c-categoria-beneficio-por-incapacidade-2",
+          "text": "Os benefícios por incapacidade do INSS são três, e cada um tem uma página com requisitos, documentos e o caminho do pedido. A isenção de imposto de renda por doença grave entra no grupo porque também depende de laudo, embora seja da Receita Federal, e não do INSS.",
+          "sourceUrl": "https://janainasoutoadv.com.br/incapacidade/",
+          "pageTitle": "Benefício por incapacidade do INSS | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        }
+      ],
+      "relations": [
+        {
+          "predicate": "COVERS",
+          "targetId": "conceito-aposentadoria-por-invalidez",
+          "targetName": "Aposentadoria por invalidez"
+        },
+        {
+          "predicate": "COVERS",
+          "targetId": "conceito-auxilio-acidente",
+          "targetName": "Auxílio-acidente"
+        },
+        {
+          "predicate": "COVERS",
+          "targetId": "conceito-auxilio-doenca",
+          "targetName": "Auxílio-doença"
+        },
+        {
+          "predicate": "COVERS",
+          "targetId": "conceito-pericia-medica",
+          "targetName": "Perícia médica do INSS"
+        }
+      ]
+    },
+    {
+      "entityId": "categoria-bpc-loas",
+      "@type": "Taxonomy",
+      "name": "BPC LOAS",
+      "description": "Categoria do site sobre o Benefício de Prestação Continuada da pessoa idosa e da pessoa com deficiência.",
+      "hasChunks": [
+        {
+          "chunkId": "c-categoria-bpc-loas-1",
+          "text": "O BPC LOAS paga um salário mínimo por mês à pessoa idosa de 65 anos ou mais e à pessoa com deficiência de família de baixa renda, sem exigir contribuição ao INSS. Este guia mostra quem tem direito, como a renda da família é calculada e como pedir.",
+          "sourceUrl": "https://janainasoutoadv.com.br/bpc-loas/",
+          "pageTitle": "BPC LOAS: quem tem direito e como pedir | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "definition"
+        },
+        {
+          "chunkId": "c-categoria-bpc-loas-2",
+          "text": "O BPC LOAS tem dois públicos, e cada um tem uma página com requisitos, documentos e o caminho do pedido. A renda da família é a mesma regra para os dois; o que muda é a idade, no caso da pessoa idosa, e a avaliação da deficiência, no caso da pessoa com deficiência.",
+          "sourceUrl": "https://janainasoutoadv.com.br/bpc-loas/",
+          "pageTitle": "BPC LOAS: quem tem direito e como pedir | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        }
+      ],
+      "relations": [
+        {
+          "predicate": "COVERS",
+          "targetId": "conceito-bpc",
+          "targetName": "Benefício de Prestação Continuada"
+        }
+      ]
+    },
+    {
+      "entityId": "categoria-beneficios-para-a-familia",
+      "@type": "Taxonomy",
+      "name": "Benefícios do INSS para a família",
+      "description": "Categoria do site com os benefícios pagos aos dependentes do segurado ou ligados aos filhos: pensão por morte e salário-maternidade.",
+      "hasChunks": [
+        {
+          "chunkId": "c-categoria-beneficios-para-a-familia-1",
+          "text": "Os benefícios do INSS para a família protegem quem depende de um segurado em dois momentos: a morte e o nascimento ou a adoção. Este guia mostra a pensão por morte e o salário-maternidade, quem é dependente e que documentos separar.",
+          "sourceUrl": "https://janainasoutoadv.com.br/familia/",
+          "pageTitle": "Benefícios do INSS para a família | Janaina Souto Advocacia",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "definition"
+        },
+        {
+          "chunkId": "c-categoria-beneficios-para-a-familia-2",
+          "text": "Os benefícios do INSS para a família com página própria são dois, cada um ligado a um momento da vida: a morte de um segurado e o nascimento ou a adoção de uma criança. Cada página mostra requisitos, documentos e o caminho do pedido, para o segurado e para quem depende dele.",
+          "sourceUrl": "https://janainasoutoadv.com.br/familia/",
+          "pageTitle": "Benefícios do INSS para a família | Janaina Souto Advocacia",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        }
+      ],
+      "relations": [
+        {
+          "predicate": "COVERS",
+          "targetId": "conceito-pensao-por-morte",
+          "targetName": "Pensão por morte"
+        },
+        {
+          "predicate": "COVERS",
+          "targetId": "conceito-salario-maternidade",
+          "targetName": "Salário-maternidade"
+        }
+      ]
+    },
+    {
+      "entityId": "categoria-beneficios-do-inss",
+      "@type": "Taxonomy",
+      "name": "Benefícios do INSS",
+      "description": "Categoria do site com os serviços que atravessam todos os benefícios: planejamento, negativa do INSS e correção do CNIS.",
+      "hasChunks": [
+        {
+          "chunkId": "c-categoria-beneficios-do-inss-1",
+          "text": "Os benefícios do INSS vão das aposentadorias à pensão por morte, passando pelos auxílios e pelo BPC. Este guia mostra os tipos de benefício, quem tem direito, como fazer o pedido e o que fazer quando o INSS nega, com links para cada caminho.",
+          "sourceUrl": "https://janainasoutoadv.com.br/inss/",
+          "pageTitle": "Benefícios do INSS: tipos, pedido e negativa | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "definition"
+        },
+        {
+          "chunkId": "c-categoria-beneficios-do-inss-2",
+          "text": "Os benefícios do INSS geram três situações que pedem um serviço próprio: planejar antes de pedir, enfrentar uma negativa, inclusive na Justiça Federal, e corrigir o cadastro. Cada página mostra quando usar o caminho, os documentos e os prazos, para não repetir um pedido com o mesmo erro.",
+          "sourceUrl": "https://janainasoutoadv.com.br/inss/",
+          "pageTitle": "Benefícios do INSS: tipos, pedido e negativa | Janaina Souto",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        }
+      ],
+      "relations": [
+        {
+          "predicate": "COVERS",
+          "targetId": "conceito-cnis",
+          "targetName": "Cadastro Nacional de Informações Sociais"
+        },
+        {
+          "predicate": "COVERS",
+          "targetId": "conceito-regime-geral-de-previdencia-social",
+          "targetName": "Regime Geral de Previdência Social"
+        },
+        {
+          "predicate": "COVERS",
+          "targetId": "conceito-carencia",
+          "targetName": "Carência"
+        },
+        {
+          "predicate": "COVERS",
+          "targetId": "conceito-qualidade-de-segurado",
+          "targetName": "Qualidade de segurado"
+        }
+      ]
+    },
+    {
+      "entityId": "lugar-cidade-cuiaba-mt",
+      "@type": "Place",
+      "name": "Cuiabá",
+      "description": "Cidade de Mato Grosso onde fica a sede da Janaina Souto Advocacia Previdenciária, com atendimento presencial sem agendamento.",
+      "sameAs": "https://www.wikidata.org/wiki/Q170762",
+      "hasChunks": [
+        {
+          "chunkId": "c-lugar-cidade-cuiaba-mt-1",
+          "text": "A sede da Janaina Souto Advocacia fica na Av. Belvedere, 885, sala 4, Jardim Imperial, Cuiabá/MT, CEP 78075-850.",
+          "sourceUrl": "https://janainasoutoadv.com.br/contato/",
+          "pageTitle": "Contato Janaina Souto Advocacia: endereço e WhatsApp",
+          "publisher": "Janaina Souto Advocacia Previdenciária",
+          "retrieved": "2026-11-24T05:49:02Z",
+          "contentType": "evidence"
+        }
+      ],
+      "relations": [
+        {
+          "predicate": "PART_OF",
+          "targetId": "lugar-pais-brasil",
+          "targetName": "Brasil"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+/* Somente composição do guia: tipografia e componentes vêm do CSS real do site. */
+.ds-bar { padding-block: var(--space-md); border-bottom: 1px solid var(--border-light); }
+.ds-bar .container { display: flex; justify-content: space-between; flex-wrap: wrap; gap: var(--space-md); align-items: center; }
+.ds-guide section[id] { scroll-margin-top: var(--space-lg); }
+.ds-type-samples { display: grid; gap: var(--space-xl); }
+.ds-type-row { display: grid; grid-template-columns: 3rem minmax(0, 1fr); gap: var(--space-lg); padding-bottom: var(--space-xl); border-bottom: 1px solid var(--border-light); }
+.ds-type-row p { margin-top: var(--space-sm); }
+.ds-table, .ds-copy-samples, .ds-actions, .ds-faq { margin-top: var(--space-2xl); }
+.ds-table caption { text-align: left; padding: var(--space-lg); font-weight: var(--weight-semibold); }
+.ds-caption, .ds-note { font-size: var(--text-small); color: var(--text-secondary); }
+.ds-swatch { min-width: 0; box-shadow: none; }
+.ds-swatch code { overflow-wrap: anywhere; }
+.ds-swatch__color { height: 5rem; border: 1px solid var(--border-light); border-radius: var(--radius-sm); }
+.ds-faq { border-color: var(--border-light); }
+.ds-faq .faq-item { border-color: var(--border-light); }
+.ds-faq .faq-item__answer { color: var(--text-dark); }
+.ds-rules { display: grid; gap: var(--space-lg); padding-left: var(--space-lg); }
+.ds-note { margin-top: var(--space-xl); }
