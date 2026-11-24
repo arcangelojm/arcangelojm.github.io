@@ -4160,3 +4160,37 @@ dfn {
     --text-label: 1rem;
   }
 }
+
+/* Hero de ponta a ponta (24/11/2026), notebook e desktop: a cena ambientada (escritório com a
+   Dra. Janaina à direita) ocupa o hero inteiro; o azul-marinho escurece só o lado do texto. */
+@media (min-width: 1200px) {
+  .hero--photo .hero__media,
+  .hero--home.hero--photo .hero__media {
+    inset: 0;
+    width: 100%;
+    max-width: none;
+    height: 100%;
+    object-fit: cover;
+    object-position: right center;
+    -webkit-mask-image: none;
+    mask-image: none;
+  }
+
+  .hero--photo .hero__overlay,
+  .hero--home.hero--photo .hero__overlay {
+    display: block;
+    background: linear-gradient(
+      90deg,
+      rgb(var(--ink-950-rgb) / 94%) 0%,
+      rgb(var(--ink-950-rgb) / 86%) 30%,
+      rgb(var(--ink-950-rgb) / 55%) 48%,
+      rgb(var(--ink-950-rgb) / 12%) 62%,
+      rgb(var(--ink-950-rgb) / 0%) 72%
+    );
+  }
+
+  /* Na home o retrato fica dentro do conteúdo: sem z-index aqui, o véu azul passa a cobrir a foto. */
+  .hero--home.hero--photo .hero__content {
+    z-index: auto;
+  }
+}
